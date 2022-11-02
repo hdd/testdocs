@@ -14,6 +14,11 @@ Welcome to testdoc's documentation!
 Hurrah ! 
 --------
 
+and here we are adding more 
+
+* one
+* two
+
 Indices and tables
 ==================
 
