@@ -14,7 +14,7 @@ Welcome to testdoc's documentation!
 Hurrah ! 
 --------
 
-and here we are adding more 
+And here we are adding more.
 
 * one
 * two
